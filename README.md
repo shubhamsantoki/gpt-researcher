@@ -1,8 +1,8 @@
-# GPT-Researcher Readme
+# web-researcher chatbot Readme
 
 ## Overview
 
-GPT-Researcher is a chatbot powered by GPT (Generative Pre-trained Transformer) that utilizes Google Search results to generate answers to your questions. This README provides you with detailed instructions on how to set up and run the project.
+web-researcher chatbot is a chatbot powered by GPT (Generative Pre-trained Transformer) that utilizes Google Search results to generate answers to your questions. This README provides you with detailed instructions on how to set up and run the project.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ Before setting up the project, make sure you have the following:
 
    ```bash
    git clone https://github.com/your-repo-url.git
-   cd gpt-researcher
+   cd web-researcher chatbot
 
 ## Installation
 
@@ -42,7 +42,7 @@ PINECONE_INDEX=your_pinecone_index_here
 
 
 ## Running the Project
-To run the GPT-Researcher chatbot, follow these steps:
+To run the web-researcher chatbot chatbot, follow these steps:
 
 In the root directory of the project, execute the following command:
 
@@ -51,13 +51,13 @@ streamlit run main.py
 ```
 Once the application is running, open a web browser and navigate to the provided URL (typically http://localhost:8501).
 
-You can now interact with the GPT-Researcher chatbot by entering your questions or queries. The chatbot will use Google Search results to provide answers and information.
+You can now interact with the web-researcher chatbot chatbot by entering your questions or queries. The chatbot will use Google Search results to provide answers and information.
 
 ## Usage
-GPT-Researcher is designed to assist you in finding information from the web quickly and efficiently. Simply type your questions or queries into the chat interface, and the chatbot will generate responses based on the Google Search results it retrieves.
+web-researcher chatbot is designed to assist you in finding information from the web quickly and efficiently. Simply type your questions or queries into the chat interface, and the chatbot will generate responses based on the Google Search results it retrieves.
 
 ## Disclaimer
-Please note that GPT-Researcher relies on external services and APIs, including Google Search and Pinecone. Be aware of any usage limits and terms of service associated with these services. Additionally, keep your API keys and credentials secure to protect your data and resources.
+Please note that web-researcher chatbot relies on external services and APIs, including Google Search and Pinecone. Be aware of any usage limits and terms of service associated with these services. Additionally, keep your API keys and credentials secure to protect your data and resources.
 
 
 
